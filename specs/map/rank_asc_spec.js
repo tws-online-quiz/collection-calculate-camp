@@ -1,5 +1,5 @@
 'use strict';
-var rank_asc = require('../../practices/map/rank_asc.js');
+var rank_asc = require('../../main/map/rank_asc.js');
 
 describe('rank by asc', function() {
   var collection_a = [3, 2, 4, 5, 6];

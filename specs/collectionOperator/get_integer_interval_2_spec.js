@@ -1,6 +1,6 @@
 'use strict';
 
-var get_integer_interval_2 = require('../../practices/collectionOperator/get_integer_interval_2.js');
+var get_integer_interval_2 = require('../../main/collectionOperator/get_integer_interval_2.js');
 
 describe('get_integer_interval_2', function () {
 

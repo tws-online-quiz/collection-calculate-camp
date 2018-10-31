@@ -1,6 +1,6 @@
 'use strict';
 
-var find_last_even = require('../../practices/reduce/find_last_even.js');
+var find_last_even = require('../../main/reduce/find_last_even.js');
 
 describe('find_last_even', function() {
 

@@ -1,6 +1,6 @@
 'use strict';
 
-var double_to_one = require("../../practices/flaten/double_dimensional_array_to_one_1.js");
+var double_to_one = require("../../main/flaten/double_dimensional_array_to_one_1.js");
 
 describe('double_to_one', function() {
 

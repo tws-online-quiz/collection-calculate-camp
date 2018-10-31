@@ -1,6 +1,6 @@
 'use strict';
 
-var compute_chain_median = require('../../practices/reduce/compute_chain_median.js');
+var compute_chain_median = require('../../main/reduce/compute_chain_median.js');
 
 describe('compute_chain_median', function () {
 

@@ -1,5 +1,5 @@
 'use strict';
-var single_element = require('../../../../practices/superposition_operation/own_elements_operation/subscript_is_even/single_element.js');
+var single_element = require('../../../../main/superposition_operation/own_elements_operation/subscript_is_even/single_element.js');
 
 describe('single_element_spec', function() {
 

@@ -1,6 +1,6 @@
 'use strict';
 
-var choose_common_elements = require("../../practices/filter/two_collections_practice_1.js");
+var choose_common_elements = require("../../main/filter/two_collections_practice_1.js");
 
 describe('choose_common_elements', function() {
 

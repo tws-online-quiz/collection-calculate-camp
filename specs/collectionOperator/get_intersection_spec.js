@@ -1,6 +1,6 @@
 'use strict';
 
-var get_intersection = require('../../practices/collectionOperator/get_intersection.js');
+var get_intersection = require('../../main/collectionOperator/get_intersection.js');
 
 describe('get_intersection', function () {
 

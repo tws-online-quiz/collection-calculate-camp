@@ -1,6 +1,6 @@
 'use strict';
 
-var find_first_even = require('../../practices/reduce/find_first_even.js');
+var find_first_even = require('../../main/reduce/find_first_even.js');
 
 describe('find_first_even', function() {
 

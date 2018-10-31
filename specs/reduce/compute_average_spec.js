@@ -1,5 +1,5 @@
 'use strict';
-var compute_average = require('../../practices/reduce/compute_average.js');
+var compute_average = require('../../main/reduce/compute_average.js');
 
 describe('compute_average', function () {
 

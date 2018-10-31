@@ -1,5 +1,5 @@
 'use strict';
-var one_add_next_multiply_three = require('../../../practices/superposition_operation/own_elements_operation/one_add_next_multiply_three.js');
+var one_add_next_multiply_three = require('../../../main/superposition_operation/own_elements_operation/one_add_next_multiply_three.js');
 
 describe('one_add_next_multiply_three_spec', function() {
   var collection_a = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21];

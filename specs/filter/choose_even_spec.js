@@ -1,6 +1,6 @@
 'use strict';
 
-var choose_even = require("../../practices/filter/choose_even.js");
+var choose_even = require("../../main/filter/choose_even.js");
 
 describe('choose_even', function() {
 

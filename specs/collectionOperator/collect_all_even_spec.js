@@ -1,6 +1,6 @@
 'use strict';
 
-var collect_all_even = require('../../practices/collectionOperator/collect_all_even.js');
+var collect_all_even = require('../../main/collectionOperator/collect_all_even.js');
 
 describe('collect_all_even', function () {
 

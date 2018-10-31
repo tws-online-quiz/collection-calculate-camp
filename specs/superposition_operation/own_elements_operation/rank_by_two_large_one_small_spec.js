@@ -1,5 +1,5 @@
 'use strict';
-var rank_by_two_large_one_small = require('../../../practices/superposition_operation/own_elements_operation/rank_by_two_large_one_small.js');
+var rank_by_two_large_one_small = require('../../../main/superposition_operation/own_elements_operation/rank_by_two_large_one_small.js');
 
 describe('rank_by_two_large_one_small_spec', function() {
   var collection_a = [2, 8, 1, 9, 6, 4, 3, 10];

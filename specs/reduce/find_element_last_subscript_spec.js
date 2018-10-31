@@ -1,6 +1,6 @@
 'use strict';
 
-var find_element_last_subscript = require('../../practices/reduce/find_element_last_subscript.js');
+var find_element_last_subscript = require('../../main/reduce/find_element_last_subscript.js');
 
 describe('find_element_last_subscript', function() {
 

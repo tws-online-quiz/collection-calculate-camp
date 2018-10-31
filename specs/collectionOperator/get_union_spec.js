@@ -1,6 +1,6 @@
 'use strict';
 
-var get_union = require('../../practices/collectionOperator/get_union.js');
+var get_union = require('../../main/collectionOperator/get_union.js');
 
 describe('get_union', function () {
 

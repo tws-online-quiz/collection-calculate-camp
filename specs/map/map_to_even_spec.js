@@ -1,5 +1,5 @@
 'use strict';
-var map_to_even = require("../../practices/map/map_to_even.js");
+var map_to_even = require("../../main/map/map_to_even.js");
 
 describe('map to even', function() {
 
