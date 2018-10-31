@@ -1,6 +1,6 @@
 'use strict';
 
-var grouping_count = require("../../practices/filter/grouping_count.js");
+var grouping_count = require("../../main/filter/grouping_count.js");
 
 describe('grouping_count', function() {
 

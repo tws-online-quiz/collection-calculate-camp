@@ -1,6 +1,6 @@
 'use strict';
 
-var split_to_zero = require('../../practices/ruduce/split_to_zero.js');
+var split_to_zero = require('../../main/ruduce/split_to_zero.js');
 
 describe('split_to_zero', function () {
 

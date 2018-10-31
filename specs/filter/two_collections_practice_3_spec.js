@@ -1,6 +1,6 @@
 'use strict';
 
-var choose_divisible_integer = require("../../practices/filter/two_collections_practice_3.js");
+var choose_divisible_integer = require("../../main/filter/two_collections_practice_3.js");
 
 describe('choose_divisible_integer', function() {
 

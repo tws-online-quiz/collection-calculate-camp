@@ -1,6 +1,6 @@
 'use strict';
 
-var collect_last_element = require('../../practices/collectionOperator/collect_last_element.js');
+var collect_last_element = require('../../main/collectionOperator/collect_last_element.js');
 
 describe('collect_last_element', function () {
 

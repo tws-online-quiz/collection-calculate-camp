@@ -1,6 +1,6 @@
 'use strict';
 
-var collect_min_number = require('../../practices/reduce/collect_min_number.js');
+var collect_min_number = require('../../main/reduce/collect_min_number.js');
 
 describe('collect_min_number', function () {
 

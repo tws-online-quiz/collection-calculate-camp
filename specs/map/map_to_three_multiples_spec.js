@@ -1,5 +1,5 @@
 'use strict';
-var map_to_three_multiples = require('../../practices/map/map_to_three_multiples.js');
+var map_to_three_multiples = require('../../main/map/map_to_three_multiples.js');
 
 describe('map to three multiples', function() {
   var collection_a = [1, 3, 5, 4, 9];

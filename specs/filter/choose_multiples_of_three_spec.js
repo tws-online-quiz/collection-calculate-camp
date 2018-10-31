@@ -1,6 +1,6 @@
 'use strict';
 
-var choose_multiples_of_three = require("../../practices/filter/choose_multiples_of_three.js");
+var choose_multiples_of_three = require("../../main/filter/choose_multiples_of_three.js");
 
 describe('choose_multiples_of_three', function() {
 

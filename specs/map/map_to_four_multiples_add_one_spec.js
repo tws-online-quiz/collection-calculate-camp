@@ -1,5 +1,5 @@
 'use strict';
-var map_to_four_multiples_add_one = require('../../practices/map/map_to_four_multiples_add_one.js');
+var map_to_four_multiples_add_one = require('../../main/map/map_to_four_multiples_add_one.js');
 
 describe('map_to_four_multiples_add_one', function() {
 

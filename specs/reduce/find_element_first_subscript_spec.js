@@ -1,6 +1,6 @@
 'use strict';
 
-var find_element_first_subscript = require('../../practices/reduce/find_element_first_subscript.js');
+var find_element_first_subscript = require('../../main/reduce/find_element_first_subscript.js');
 
 describe('find_element_first_subscript', function() {
 

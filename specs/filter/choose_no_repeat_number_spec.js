@@ -1,6 +1,6 @@
 'use strict';
 
-var choose_no_repeat_number = require("../../practices/filter/choose_no_repeat_number.js");
+var choose_no_repeat_number = require("../../main/filter/choose_no_repeat_number.js");
 
 describe('choose_no_repeat_number', function() {
 

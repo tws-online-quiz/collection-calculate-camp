@@ -1,6 +1,6 @@
 'use strict';
 
-var collect_max_number = require('../../practices/reduce/collect_max_number.js');
+var collect_max_number = require('../../main/reduce/collect_max_number.js');
 
 describe('collect_max_number', function () {
 

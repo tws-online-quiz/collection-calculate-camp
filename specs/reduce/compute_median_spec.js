@@ -1,6 +1,6 @@
 'use strict';
 
-var compute_median = require('../../practices/reduce/compute_median.js');
+var compute_median = require('../../main/reduce/compute_median.js');
 
 describe('compute_median', function () {
   var collection_a = [1, 1, 1, 2, 3];

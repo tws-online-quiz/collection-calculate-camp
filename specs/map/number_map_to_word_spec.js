@@ -1,5 +1,5 @@
 'use strict';
-var number_map_to_word = require('../../practices/map/number_map_to_word.js');
+var number_map_to_word = require('../../main/map/number_map_to_word.js');
 
 describe('number map to word', function() {
   var collection_a = [1, 2, 3, 4, 5];
